@@ -1,9 +1,10 @@
 import numpy as np
 import math
+import sklearn
 
 class IsingLattice:
 
-    E = 0.0
+    E = 2.0
     E2 = 0.0
     M = 0.0
     M2 = 0.0
